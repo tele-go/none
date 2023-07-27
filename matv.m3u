@@ -1,0 +1,944 @@
+﻿# ************************************************************************************************************************************* 
+
+#Nouveau  canada EPG :       
+#PLUTO francais  EPG : https://i.mjh.nz/PlutoTV/fr.xml.gz	
+
+# https://tvlistings.zap2it.com/?aid=gapzap#   LE GUIDE   🎶 
+#installer xciptv  vas downloader sur   firestick  et  ecrit :  troypoint.com/xc
+                                 
+#   http://jawaltv.com/fr/watch/pg/d5tv.php    D5TV
+# pluto anglais avec guide EPG:      
+# M3U : https://i.mjh.nz/PlutoTV/us.m3u8 ou  https://3.ly/alTZe   https://i.mjh.nz/PlutoTV/fr.m3u8   https://i.mjh.nz/PlutoTV/ca.m3u8   https://i.mjh.nz/Plex/all.m3u8
+# EPG : https://i.mjh.nz/PlutoTV/us.xml 
+# 
+#************************************************************************************************************************************ 
+#EXTINF:-1 channel-id="pluto-6304f20c941c5d00089634e7" tvg-id="6304f20c941c5d00089634e7" tvg-chno="34" tvg-logo="https://images.pluto.tv/channels/6304f20c941c5d00089634e7/colorLogoPNG.png" group-title="📺   T.V Free " , Juste Tattoo (FR)
+https://i.mjh.nz/PlutoTV/6304f20c941c5d00089634e7-alt.m3u8
+#EXTINF:-1 tvg-id="5f914f4b36d67d0007a91a04"tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png"group-title="📺   T.V Free ", Investigation
+https://stitcher.pluto.tv/stitch/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="PlutoTVTROL.us" tvg-name="Pluto TV TROL" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://www.utilitaire2011.com/drolevideo.png" group-title="📺   T.V Free ", DROLE DE VIDEOS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb8a8b2619a000710605c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="I723.72976.zap2it.com " tvg-name="CA:Noovo " tvg-logo="https://www.lyngsat.com/logo/tv/nn/noovo-ca.png" group-title="📺   T.V Free ", Noovo (CFJP)
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
+#EXTINF:-1 tvg-id="I735.63040.zap2it.com" tvg-name="ICI TELE QUEBEC (FR)"  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_quebec.png "group-title="📺   T.V Free ", Télé-Quebec (CIVM)
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-name="TVA (FR)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tva-ca.png" group-title="📺   T.V Free ", TVA Montreal (CFTM)
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
+#EXTINF:-1 tvg-ID="I718.72981.zap2it.com" tvg-name="Radio-canada SAGUENAY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-radio-canada-tele-ca.png "group-title="📺   T.V Free ", R-C SAGUENAY (CKTV)
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
+#EXTINF:-1 tvg-ID="CBVT.ca " tvg-name="Radio-canada QUEBEC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-radio-canada-tele-ca.png "group-title="📺   T.V Free " , R-C QUEBEC (CBVT)
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
+#EXTINF:-1 tvg-ID="I728.45864.zap2it.com" tvg-name="Radio-canada MONTREAL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-radio-canada-tele-ca.png "group-title="📺   T.V Free " ,  R-C MONTREAL (CBFT)
+https://dai.google.com/linear/hls/event/ixE_JVvSSCWyxU7eXJoV-A/master.m3u8
+#EXTINF:-1 tvg-id="CBKFT.ca" tvg-name="  " tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-radio-canada-tele-ca.png " group-title="📺   T.V Free ", R-C ALBERTA (+1h) (cbwft) 
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBWFT.ca" tvg-name="alberta (FR) " tvg-logo=" https://www.lyngsat-logo.com/logo/tv/ii/ici-radio-canada-tele-ca.png "group-title="📺   T.V Free " , R-C SASK (+2h) (cbkft)
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBUFT.ca" tvg-name="radio can vancouver (FR) " tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-radio-canada-tele-ca.png "group-title="📺   T.V Free ", R-C Vanc(+3h ) (CBUFT)
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
+#EXTINF:-1 tvg-id="CBAFT.ca" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-radio-canada-tele-ca.png" group-title="📺   T.V Free ", R-C Moncton CBAFT
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
+#EXTINF:-1 tvg-id="CKTM.ca" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-radio-canada-tele-ca.png" group-title="📺   T.V Free ",  R-C Mauricie CKTM
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
+#EXTINF:-1 tvg-id="CBOFT.ca" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-radio-canada-tele-ca.png" group-title="📺   T.V Free ",  R-C Ott-Gatineau CBOFT
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
+#EXTINF:-1 tvg-id="I742.60327.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDkxNTNf/ICI-RDI.png" group-title="📺   T.V Free ",* ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="lcn.ca" tvg-name="" tvg-logo="https://i.imgur.com/JHOyrgA.png" group-title="📺   T.V Free ", * LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8?Canada
+#EXTINF:-1 tvg-id="CAAJ17000040F" tvg-chno="1044" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/Le_T%C3%A9l%C3%A9journal_%28logo%2C_2017%29.png" group-title="📺   T.V Free ", *TELEJOURNAL
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_radiocanada_001.m3u8?ads.caid=RadioCanada&ads.csid=samsungtvplus_ca_radiocanada_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=fr%2Cfr-CA%2Cen&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=208&ads.xumo_contentName=CBCNewsFrench&ads.xumo_providerId=208&ads.xumo_providerName=CBCNewsFrench&ads.xumo_channelId=9991504&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-id="CAAJ17000040F" tvg-chno="1044" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/Le_T%C3%A9l%C3%A9journal_%28logo%2C_2017%29.png" group-title="📺   T.V Free ", *RADIO CANADA INFO
+https://d352zobhe5lhe6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j7m6inrqe6jat/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="CanalSavoir.fr " tvg-name="https://savoir.tv/endirect  " tvg-logo="https://www.lyngsat-stream.com/logo/tv/cc/canal-savoir-ca.png " group-title="📺   T.V Free ", SAVOIR MEDIA
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 channel-id="pluto-63b579961bdba100071214cb" tvg-id="63b579961bdba100071214cb" tvg-chno="32" tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/colorLogoPNG.png" group-title="📺   T.V Free " , C'est pas sorcier (documentaire)
+https://i.mjh.nz/PlutoTV/63b579961bdba100071214cb-alt.m3u8
+#EXTINF:-1 tvg-id="TeleMagQuebec.ca" tvg-logo="https://i.imgur.com/AeeWZH1.png" group-title="📺   T.V Free ",TéléMag Québec 
+https://ythls.onrender.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
+#EXTINF:-1 tvg-id="60803e541a829e0008e91641"tvg-logo="https://images.pluto.tv/channels/60803e541a829e0008e91641/colorLogoPNG.png"group-title="📺   T.V Free ", TV Yoga
+https://stitcher.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-name="Assemblée Nationale du QC"tvg-id="Assemblée.Nationale.(ASSNA).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDU5MjZf/ANDQ_603x603.png"tvg-chno="57"group-title="📺   T.V Free ",Assemblée Nationale du QC
+https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
+#EXTINF:-1 tvg-id="cpac.ca " tvg-name="assnat.qc.ca/fr/video-audio/canal-assemblee/index.html  " tvg-logo=" " group-title="📺   T.V Free ", CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CBMT.ca" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/CBC-Logo.png" group-title="📺   T.V Free ", CBC MONTREAL
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+#EXTINF:-1 tvg-id="CBC.ca" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/CBC-Logo.png" group-title="📺   T.V Free ", CBC TORONTO
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Jerryspringer_logo_240.png"group-title="📺   T.V Free ", JERRY SPRINGER 
+https://6035f7de3d0f4769aa5e1f528b93358f.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7f848f1ff2e1d2555a2/playlist.m3u8?&gdpr=1&gdpr_consent=1
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo=" " group-title="📺   T.V Free ", ##########
+http://***
+#EXTINF:-1 tvg-id="JustepourRire.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://i.imgur.com/28j8RF1.png" group-title="📺   T.V Free ",Juste pour Rire 1
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+#EXTINF:-1 tvg-id="JustepourRire.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://i.imgur.com/28j8RF1.png" group-title="📺   T.V Free ",Juste pour Rire 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61781878a3580d0008967df8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="JustepourRire.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://i.imgur.com/28j8RF1.png" group-title="📺   T.V Free ",Juste pour Rire 3
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/a249be578217437d/9991747/master.m3u8?ads.caid=JustForLaughsGags&ads.csid=zeus_uk_justforlaughsgags_ssai&ads._fw_content_category=IAB1-4&ads._fw_content_genre=humor&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads.xumo_contentId=146&ads.xumo_contentName=JustForLaughsGags&ads.xumo_providerId=146&ads.xumo_providerName=JustForLaughsGags&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3261&ads.rakuten_streaming_id=f4c0cdb3-2883-4b27-94a5-1c140a4572dc&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991747&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid
+#EXTINF:-1 tvg-id="USBC4400004KK" tvg-chno="1321" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400004KK_20230125T022518SQUARE.png_20230125022518.png" group-title="📺   T.V Free ",Just for Laughs GAGS 4
+https://d1geua7w9myu7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccslktftyouus-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="USBA1600001XM" tvg-chno="1332" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA1600001XM_20230125T022625SQUARE.png_20230125022626.png" group-title="📺   T.V Free ",Always Funny Videos
+https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="Rakuten_591-weather-spy" tvg-logo="https://images-2.wuaki.tv/system/artworks/19/original/weather-spy-1600446297.jpeg" group-title="📺   T.V Free ",Weather Spy
+https://288cf8bdd0784900b402d3ae8bb4807a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Weatherspy/playlist.m3u8
+#EXTINF:-1 tvg-id="5f8ecd9169d2d4000864a974"tvg-logo="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/colorLogoPNG.png"group-title="📺   T.V Free ",FailArmy
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="PLEX" tvg-name=" " tvg-logo=" https://www.utilitaire2011.com/drolevideo.png "group-title="📺   T.V Free " ,  DROLE VIDEO ANIMAUX
+https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTROL.us" tvg-name="Pluto TV TROL" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://www.utilitaire2011.com/drolevideo.png" group-title="📺   T.V Free ", PlutoTV CAT
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=599375885ceaac3cabccbed7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=635&terminate=false&userId=
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo=" " group-title="📺   T.V Free ", ##########
+http://***
+#EXTINF:-1 tvg-id="PlutoTVAnimaux.us" tvg-name=" " tvg-logo="https://www.lyngsat.com/logo/tv/ii/ici-explora-ca.png" group-title="📺   T.V Free ", Animaux docu
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7
+#EXTINF:-1 tvg-id="FRBC4000001IO" tvg-chno="4001" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC4000001IO_20221012T021115.png" group-title="📺   T.V Free ",Destination Nature
+https://d2lkb3wuytha2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sf8g3d5udmzh-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="611e771e2f5f180007002224"tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png"group-title="📺   T.V Free ",Pluto TV Histoire
+https://stitcher.pluto.tv/stitch/hls/channel/611e771e2f5f180007002224/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5f8ed3892ed7bb000741a1d2"tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png"group-title="📺   T.V Free ",Pluto TV Inside
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="FRBB4900002D4" tvg-chno="4255" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/FRBB4900002D4_20220810T012634.png" group-title="📺   T.V Free ",Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="5f8ed58b2db26f0007b4aa73"tvg-logo="https://images.pluto.tv/channels/5f8ed58b2db26f0007b4aa73/colorLogoPNG.png"group-title="📺   T.V Free ",Pluto TV Nature
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="611e7811eb9daf000764cbfd"tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png"group-title="📺   T.V Free ",Pluto TV Voyage
+https://stitcher.pluto.tv/stitch/hls/channel/611e7811eb9daf000764cbfd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Maisons_du_Monde_logo.svg/320px-Maisons_du_Monde_logo.svg.png" group-title="📺   T.V Free ",  Maison DE STAR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602cf8963b4bc90007454541/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b08c0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5043513f-eb20-46fd-8286-9e9ba240e6f9
+#EXTINF:-1 channel-id="pluto-62f3f05505e621000783df2f" tvg-id="62f3f05505e621000783df2f" tvg-chno="506" tvg-logo="https://images.pluto.tv/channels/62f3f05505e621000783df2f/colorLogoPNG.png" group-title="📺   T.V Free " , Teen Mom
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f3f05505e621000783df2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="PlutoTVCuisine.us" tvg-country="US" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" group-title="📺   T.V Free ",  Cuisine 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo=" " group-title="📺   T.V Free ", #####GENERAL#####
+https://
+#EXTINF:-1 channel-id="pluto-6192416c06d23b0007379766" tvg-id="6192416c06d23b0007379766" tvg-chno="515" tvg-logo="https://images.pluto.tv/channels/6192416c06d23b0007379766/colorLogoPNG.png" group-title="📺   T.V Free ",Are You The One?
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6192416c06d23b0007379766/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id=" " tvg-name="MTV Catfish+" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_us.png" group-title="📺   T.V Free ", MTVCatfish+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed0bb61f1200072ca4cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a1e61-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0698157f-70d9-4890-978e-e648d753b321
+#EXTINF:-1 tvg-id="5f8eb66537867f0007146953" tvg-name="MTV Catfish+" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_us.png" group-title="📺   T.V Free " tvg-chno="510", CATFISH2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb66537867f0007146953/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVDating.us" tvg-name="Pluto TV Dating" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_us.png" group-title="📺   T.V Free ", MTV Dating 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6092544e7639460007d4835e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5a2b1311-2550-464b-8060-15765b30c4f8
+#EXTINF:-1 tvg-id="MTVClassicsPlus.us" tvg-name="MTV Classics+" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_us.png" group-title="📺   T.V Free ", MTV CLASSIC 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a1e60-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=de18fdd4-d30a-4263-8ecc-df902150744d
+#EXTINF:-1 channel-id="pluto-5f92b56a367e170007cd43f4" tvg-id="5f92b56a367e170007cd43f4" tvg-chno="510" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="📺   T.V Free ",MTV CLASSICS CH2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="NTV.ci" tvg-name=" " tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-cl.png"group-title="📺   T.V Free ",  NTV 
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="LFMTV.ch" tvg-name="  " tvg-logo="https://www.lfmtv.ch/wp-content/uploads/2017/02/logo_v02-2.png " group-title="📺   T.V Free ", LFM TV 
+https://edge20.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w101167221_b3000000.m3u8
+#EXTINF:-1 tvg-id="M6" tvg-country="FR" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="📺   T.V Free ", M6 
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="📺   T.V Free ", FRANCE 2
+http://gratuittv.free.fr/Files/france2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="📺   T.V Free ", FRANCE 3
+http://gratuittv.free.fr/Files/france3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="http://static.epg.best/fr/France5.fr.png" group-title="📺   T.V Free ", FRANCE 5
+http://gratuittv.free.fr/Files/france5/live/playlist.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="http://static.epg.best/fr/6ter.fr.png" group-title="📺   T.V Free ", 6TER
+http://gratuittv.free.fr/Files/6ter/live/playlist.m3u8
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="http://static.epg.best/fr/C8.fr.png" group-title="📺   T.V Free ", C8
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/C8.m3u8
+#EXTINF:-1 tvg-id="Notele2" tvg-logo="https://i.imgur.com/cThInij.png" group-title="📺   T.V Free ", D5TV
+https://accesiptv.com/QGHet3DNeRGJ/kX4jGz3KnTPM/591.m3u8
+#EXTINF:-1 tvg-id="Frisson.fr" tvg-logo=" " group-title="📺   T.V Free ", Frisson (18Hre XXX)
+http://gratuittv.free.fr/Files/cineplus/frisson/playlist.m3u8
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="ONE TV (FR)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_one_us.png " group-title="📺   T.V Free ", ONE TV 
+https://edge19.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8?spark=c1669caa-8775-46ac-ba29-9034be5b2684&token=
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="rougetv (FR) " tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rouge_tv_ch.png " group-title="📺   T.V Free "  , ROUGETV 
+https://rougetv.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="" group-title="📺   T.V Free ", W9
+http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="📺   T.V Free ", NRJ12 
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/HD.m3u8
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png" group-title="📺   T.V Free ",Chérie 25 (1080p)
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/2/20/20170126041214%21Bein_sport_logo.png" group-title="📺   T.V Free ", BEIN1
+http://gratuittv.free.fr/Files/bein_sport_1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/2/20/20170126041214%21Bein_sport_logo.png" group-title="📺   T.V Free ", BEIN2
+http://gratuittv.free.fr/Files/bein_sport_2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/2/20/20170126041214%21Bein_sport_logo.png" group-title="📺   T.V Free ", BEIN3
+http://gratuittv.free.fr/Files/bein_sport_3/live/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo=" " group-title="📺   T.V Free ", ***************
+http://
+#EXTINF:-1 tvg-id="USBB520002173" tvg-chno="1234" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002173_20230125T022253SQUARE.png_20230125022253.png" group-title="📺   T.V Free ",Ice Road Truckers
+https://afe4c7b94bfe409ab1ea267c328b9c09.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung_IceRoadTruckers/playlist.m3u8?ads.wurl_channel=968&ads.wurl_name=IceRoadTruckers&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="" tvg-chno="1234" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002173_20230125T022253SQUARE.png_20230125022253.png" group-title="📺   T.V Free ", ICE PILOT
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce40f42ba7f7f5ea9518fe1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ce40f42ba7f7f5ea9518fe1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=aeca4ad7-0583-11eb-8b9f-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="MotorvisionTV.us" tvg-name="Motorvision TV" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/solidLogoPNG.png" group-title="📺   T.V Free ",Motorvision TV (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
+#EXTINF:-1 tvg-id="MotorvisionTV.us" tvg-name="Motorvision TV" tvg-country="CH;FR" tvg-language="French" tvg-logo=" " group-title="📺   T.V Free ", PLUTO TV EXTREME
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="redbull.com/int-en/channels/best-of-red-bull-stream" tvg-name=" " tvg-logo="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c1eb.png "group-title="📺   T.V Free " , RED BULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="STIRRWipeoutXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WipeoutXtra_190x190.png?raw=true" group-title="📺   T.V Free ",Wipeout Xtra (720p)
+https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo=" "group-title="📺   T.V Free " ,  MAVTV
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nasa_tv_us.png" group-title="📺   T.V Free ", NASA TV ch1
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nasa_tv_us.png" group-title="📺   T.V Free ",NASA TV ch3 
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nasa_tv_us.png" group-title="📺   T.V Free ", Space channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
+#EXTINF:-1 tvg-id="CJON.ca" tvg-name="" tvg-logo="" group-title="📺   T.V Free ",NTV TERRE-NEUVE
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="FireplaceLounge.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1VZZCZU.jpg" group-title="📺   T.V Free ", FEU DE FOYER NOEL
+https://cloudfront.tubi.video/efb1aca3-3525-468c-8e4b-8daa32e61c9b/g1zp7d0j/stream.m3u8?TubiSc&TiviMateGroupMovie.m3u8
+#EXTINF:-1 tvg-id="FRBC4300002PA" tvg-chno="4002" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC4300002PA_20221109T010855.png" group-title="📺   T.V Free ",Au coin du feu 1
+https://d2kl8610bw4e7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x5iyqsu1ayzs3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBD1500001BN" tvg-chno="4009" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1500001BN_20230510T043932SQUARE.png_20230510043933.png" group-title="📺   T.V Free " , Au coin de feu 2
+https://d2umomvoc9iibm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ork4htc7hdzw8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo=" " group-title="📻  Radio ", ###RADIO### / ### RADIO DASH ###
+http://***
+#EXTINF:-1 tvg-id=" " tvg-name="  "  " group-title="📻  Radio ", France Inter
+https://ythls.onrender.com/channel/UCJldRgT_D7Am-ErRHQZ90uw.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="http://www.utilitaire2011.com/icipremiere.png " group-title="📻  Radio ",ICI PREMIERE RADIO MONTREAL 01
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/adaptive_128/chunklist_ao.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="http://www.utilitaire2011.com/icipremiere.png " group-title="📻  Radio ",ICI PREMIERE RADIO SAGUENAY
+https://rcavliveaudio.akamaized.net/hls/live/2006969/P-2QSAG0_SAG/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="http://www.utilitaire2011.com/icipremiere.png " group-title="📻  Radio ",ICI PREMIERE GATINEAU-OTTAWA
+https://rcavliveaudio.akamaized.net/hls/live/2006652/P-2OOTT0_OTT/adaptive_128/chunklist_ao.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tva-ca.png " group-title="📻  Radio ", TVA (AUDIO)
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/05.m3u8
+#EXTINF:-1 tvg-id="qub.radio/radio" tvg-name=" " tvg-logo="http://www.utilitaire2011.com/qub.png" group-title="📻  Radio ",QUB RADIO LCN
+https://19293.live.streamtheworld.com/QUB_RADIOAAC.aac
+#EXTINF:-1 tvg-name="Radio Pirate"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://image.radioking.io/radios/497272/coverdefault/30163b69-418d-4455-bec5-178f430c2820.png"tvg-chno="59"group-title="📻  Radio ", Radio Pirate
+https://listen.radioking.com/radio/497272/stream/554380
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-logo.com/logo/radio/num/957-kyk-ca.png " group-title="📻  Radio ",CKYK ALMA
+https://17653.live.streamtheworld.com/CKYKFMAAC.aac
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="  " group-title="📻  Radio ",CFYX93  RIMOUSKI
+https://stream.statsradio.com:8048/stream
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-logo.com/logo/radio/cc/choi-981-radio-x-quebec-ca.png " group-title="📻  Radio ",**CHOI 98-1 QUE.
+http://lb0-stream.radiox981.ca/choi.mp3?origine=radiobox
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-logo.com/logo/radio/num/969-ckoi-ca.png " group-title="📻  Radio ",**CKOI MONTREAL --
+https://24443.live.streamtheworld.com/CKOIFMAAC.aac
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b3/6c/36540/1/c175.png" group-title="📻  Radio  ",**FM 93 QUE.
+https://24443.live.streamtheworld.com/CJMFFMAAC.aac
+#EXTINF:-1 tvg-name="Truck Stop Quebec"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.truckstopquebec.com/wp-content/uploads/2013/10/tsq300x901.png"tvg-chno="138"group-title="📻  Radio ",Truck Stop Quebec
+http://canada1.reliastream.com:8052/live
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo=" " group-title="📻  Radio ",RADIO COUNTRY 105.SAGUENAY	
+https://stream2.statsradio.com:8088/stream
+#EXTINF:-1 tvg-id=" " tvg-name=" https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png " group-title="📻  Radio ", Nrg 91 AUDIO
+https://sh.onweb.gr/9100/stream
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://ckaj.org/wp-content/uploads/2019/09/ckaj_new_black.png " group-title="📻  Radio ",**CKAJ JONQUIERE
+http://stream.statsradio.com:8060/stream
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/fd/46/130916/1/c175.png " group-title="📻  Radio ",**RADIO ENERGIE SAGUENAY
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFM.mp3
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/rouge-fm-ca.png " group-title="📻  Radio ",** ROUGE FM SAGUENAY
+https://26233.live.streamtheworld.com/CFIXFMAAC.aac
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://ca0-cdn.onlineradiobox.com/img/logo/5/80625.v2.png " group-title="📻  Radio ",**o 98-3 SAGUENAY
+https://24153.live.streamtheworld.com/CILMFMAAC.aac
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://ca0-cdn.onlineradiobox.com/img/logo/5/80625.v2.png " group-title="📻  Radio ", CFLO FM COUNTRY-VARIETE
+https://stream.statsradio.com:8088/stream
+#EXTINF:-1 tvg-id="(Dummy Radio Programming)"tvg-logo="https://i.imgur.com/JQN5wNK.png"group-title="📻  Radio ",Hit Country 95.7 Centre-du-Quebec
+http://stream.statsradio.com:8014/stream
+#EXTINF:-1 tvg-id="(Dummy Radio Programming)"tvg-logo="http://radiocountry.ca/bg1.jpg"group-title="📻  Radio ",BeauceCountry.Ca
+https://play.beauce-country.ca/
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://o973.ca/wp-content/uploads/2019/07/0973-logo.png " group-title="📻  Radio ",**o 97-3 QUEBEC
+https://stream.statsradio.com:8012/stream
+#EXTINF:-1 tvg-id="(Dummy Radio Programming)"tvg-logo="https://i.imgur.com/B1QN6dW.png"group-title="📻  Radio ",O_95.3 Matane
+http://stream.statsradio.com:8026/stream
+#EXTINF:-1 tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/i4WjvPp.png"group-title="📻  Radio ",O_97.1 La Tuque
+http://stream.statsradio.com:8018/stream
+#EXTINF:-1 tvg-id="(Dummy Radio Programming)"tvg-logo="https://i.imgur.com/tzelPZ8.png"group-title="📻  Radio ",O_97.3 Centre-du-Quebec
+http://stream.statsradio.com:8012/stream
+#EXTINF:-1 tvg-id="(Dummy Radio Programming)"tvg-logo="https://i.imgur.com/OfpCTlP.png"group-title="📻  Radio ",O_99.1 Sept-Iles
+http://stream.statsradio.com:8020/stream
+#EXTINF:-1 tvg-id="(Dummy Radio Programming)"tvg-logo="https://i.imgur.com/lh7zAt6.png"group-title="📻  Radio ",Rive-Sud et Québec
+http://stream.statsradio.com:8016/stream
+#EXTINF:-1 tvg-id="(Dummy Radio Programming)"tvg-logo="https://i.imgur.com/3smuDBA.png"group-title="📻  Radio ",O_103.5 Lanaudiere
+http://stream.statsradio.com:8024/stream
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo=" https://www.lyngsat-logo.com/logo/radio/rr/rouge-fm-ca.png" group-title="📻  Radio ",**rouge fm QUEBEC--
+https://24293.live.streamtheworld.com/CITFFMAACTEST_48.aac
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo=" https://www.lyngsat-stream.com/logo/radio/num/985-montreal-ca.png" group-title="📻  Radio ",**98-5MONTREAL 
+https://14833.live.streamtheworld.com/CHMPFMAAC.aac
+
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://ca0-cdn.onlineradiobox.com/img/logo/2/11722.v14.png " group-title="📻  Radio ",**radio energie MONTREAL---
+https://25103.live.streamtheworld.com/CKMFFMAAC.aac
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/rouge-fm-ca.png " group-title="📻  Radio ",**rouge fm MONTREAL
+https://19293.live.streamtheworld.com/CITEFMAAC.aac
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="http://www.radioclassique.ca/upload/design/5d1cc4fcaad749.59987287.png " group-title="📻  Radio ",**CJPX 99-5 CLASSIQUE MONTREAL
+https://listen.radioking.com/radio/228241/stream/271804
+#EXTINF:-1 tvg-name="BeauceCountry.Ca"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s117813/images/logod.jpg?t=164636"tvg-chno="135"group-title="📻  Radio ",BeauceCountry.Ca
+https://play.beauce-country.ca/
+#EXTINF:-1 tvg-name="Québec Country Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://quebec-country.com/wp-content/uploads/2019/10/RQC2017-1-1024x683.jpg"tvg-chno="136"group-title="📻  Radio ",Québec Country Radio
+http://play.quebec-country.com/
+#EXTINF:-1 tvg-name="99.7 MIX Beauce"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://www.mix997.com/assets/img/facebook.png"tvg-chno="137"group-title="📻  Radio ",99.7 MIX Beauce
+http://stream.statsradio.com:8054/stream
+
+📻 MUSIC NO-STOP>>>>📻 MUSIC NO-STOP>>>>📻 MUSIC NO-STOP>>>>--------------------
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="📻  Radio ",** Category updated 10/03/21 **
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ POP ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0Pop
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXPOP/dash_x_pop_color_324.png" group-title="📻  Radio " radio="true",Dash Radio | Dash Pop X
+https://ice55.securenetsystems.net/DASH17
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/214/logos/c701b24d-c9f9-41da-8829-01baa5cea68a.png" group-title="📻  Radio " radio="true",Dash Radio | Dash Hits X
+https://ice55.securenetsystems.net/DASH58
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHX/dash_x_color_324.png" group-title="📻  Radio " radio="true",Dash Radio | Dash X
+https://ice55.securenetsystems.net/DASH31
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/FUSION/fusion_324.png" group-title="📻  Radio " radio="true",Dash Radio | Fusion
+https://ice55.securenetsystems.net/DASH88
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/199/logos/ef07f038-a829-4db6-a92c-778973e3f06d.png" group-title="📻  Radio " radio="true",Dash Radio | Pop Family
+https://ice55.securenetsystems.net/DASH94
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Discover.png" group-title="📻  Radio " radio="true",Dash Radio | Discover
+https://ice55.securenetsystems.net/DASH46
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Love.png" group-title="📻  Radio " radio="true",Dash Radio | Love Song
+https://ice55.securenetsystems.net/DASH66
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/HAPPYFUNTIMERAINBOWRADIO/HFTRR_color_324.png" group-title="📻  Radio " radio="true",Happy Fun Time Rainbow Radio
+https://ice55.securenetsystems.net/DASH41
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/235/logos/340a73c9-2a3b-4b7d-a63c-f2805d81d928.png" group-title="📻  Radio " radio="true",Dash Radio | SoundCloud Radio
+https://ice55.securenetsystems.net/DASH68
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ HIP-HOP ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0HipHop
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXHIPHOP/dash_x_hiphop_color_324.png" group-title="📻  Radio " radio="true",Dash Radio | Dash Hip-Hop X
+https://ice55.securenetsystems.net/DASH90
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/49/logos/f2bfb506-9f0e-4e0a-9a6c-65cf83743777.png" group-title="📻  Radio " radio="true",Dash Radio | Dash The City
+https://ice55.securenetsystems.net/DASH2
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/DOGGYSTYLE/doggystyle_324.png" group-title="📻  Radio " radio="true",Dash Radio | Doggystyle
+https://ice55.securenetsystems.net/DASH78
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/SOUTHSIDE/southside_color_324.png" group-title="📻  Radio " radio="true",Dash Radio | Southside
+https://ice55.securenetsystems.net/DASH95
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/1580.png" group-title="📻  Radio " radio="true",Dash Radio | 1580
+https://ice55.securenetsystems.net/DASH11
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/NativeRhymes.png" group-title="📻  Radio " radio="true",Dash Radio | Native Rhymes
+https://ice55.securenetsystems.net/DASH18
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/IndependentGrind.png" group-title="📻  Radio " radio="true",Dash Radio | Independent Grind
+https://ice55.securenetsystems.net/DASH8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/BeatJunkieRadio.png" group-title="📻  Radio " radio="true",Dash Radio | Beat Junkie Radio
+https://ice55.securenetsystems.net/DASH51
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/POPUPS/DVR/vinyl_324_.png" group-title="📻  Radio " radio="true",Dash Radio | Delicious Vinyl Radio
+https://ice55.securenetsystems.net/DASH71
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/208/logos/082ea84f-58c6-4089-a311-8c875fc19b98.png" group-title="📻  Radio " radio="true",Dash Radio | Get Familiar Radio
+https://ice55.securenetsystems.net/DASH74
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/233/logos/552d1a04-1338-4754-a365-308437c373fe.png" group-title="📻  Radio " radio="true",Dash Radio | TASTE
+https://ice55.securenetsystems.net/DASH85
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ ELECTRONIC & DANCE ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0Dance
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/218/logos/c0d7b14a-9c44-4818-94ab-4ae8039ab5cb.png" group-title="📻  Radio " radio="true",Dash Radio | Insomniac Radio
+https://ice55.securenetsystems.net/DASH65
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHDANCE/dash_x_dance_color_324.png" group-title="📻  Radio " radio="true",Dash Radio | Dash Dance X
+https://ice55.securenetsystems.net/DASH81
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/138/logos/fb9eaebf-1de6-4cef-99ae-b183e41fe4af.png" group-title="📻  Radio " radio="true",Dash Radio | Dash Bot X
+https://ice55.securenetsystems.net/DASH45
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Electrocity.png" group-title="📻  Radio " radio="true",Dash Radio | Electro City
+https://ice55.securenetsystems.net/DASH9
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/180/logos/8ae49444-f5b2-49a9-8fce-07d985d61fe3.png" group-title="📻  Radio " radio="true",Dash Radio | Overdrive
+https://ice55.securenetsystems.net/DASH73
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/104/logos/ebbd8a08-e215-4824-a5cd-d0fcd28aa3c5.png" group-title="📻  Radio " radio="true",Dash Radio | Waves
+https://ice55.securenetsystems.net/DASH55
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/MonsterCat.png" group-title="📻  Radio " radio="true",Dash Radio | Monstercat
+https://ice55.securenetsystems.net/DASH63
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/9/logos/a72898bb-bd72-4075-b98c-f53849c34ceb.png" group-title="📻  Radio " radio="true",Dash Radio | Tastemakers
+https://ice55.securenetsystems.net/DASH72
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Rinse.png" group-title="📻  Radio " radio="true",Dash Radio | Rinse
+https://ice55.securenetsystems.net/DASH70
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ LATIN ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0Latin
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXLATIN/dash_x_latin_color_324.png" group-title="📻  Radio " radio="true",Dash Radio | Dash Latin X
+https://ice55.securenetsystems.net/DASH48
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/127/logos/45abdfd9-6fe6-4dfe-9651-70a23c44dd1f.png" group-title="📻  Radio " radio="true",Dash Radio | La Campesina
+https://ice55.securenetsystems.net/DASH43
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/IMPERIO/imperio_324.png" group-title="📻  Radio " radio="true",Dash Radio | Imperio
+https://ice55.securenetsystems.net/DASH27
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/LaIsla.png" group-title="📻  Radio " radio="true",Dash Radio | La Isla
+https://ice55.securenetsystems.net/DASH10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ ROCK ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0Rock
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXALT/dash_x_alt_color_324.png" group-title="📻  Radio " radio="true",Dash Radio | Dash Alt X
+https://ice55.securenetsystems.net/DASH12
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/206/logos/2d7a5d8c-8a87-4458-95f5-0aab1eec1746.png" group-title="📻  Radio " radio="true",Dash Radio | Alt X Classics
+https://ice55.securenetsystems.net/DASH83
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/MONSTERSOFROCK/mor_color_324.png" group-title="📻  Radio " radio="true",Dash Radio | Monsters of Rock
+https://ice55.securenetsystems.net/DASH14
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/164/logos/491736a0-b88d-45ee-852c-5325eb9d6174.png" group-title="📻  Radio " radio="true",Dash Radio | Grunge 90's Rock
+https://ice55.securenetsystems.net/DASH61
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/41/logos/2ed70706-c9b5-451d-8852-5dbcebe42ca9.png" group-title="📻  Radio " radio="true",Dash Radio | Church of Rock & Roll
+https://ice55.securenetsystems.net/DASH21
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/DashIndie.png" group-title="📻  Radio " radio="true",Dash Radio | Dash Indie
+https://ice55.securenetsystems.net/DASH32
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheStrip.png" group-title="📻  Radio " radio="true",Dash Radio | 80's Hair Band Rock
+https://ice55.securenetsystems.net/DASH24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ DECADES ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0Decades
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/234/logos/fad9ff01-5200-4df6-a3a1-ed17922a5586.png" group-title="📻  Radio " radio="true",Dash Radio | 10Dash20
+https://ice55.securenetsystems.net/DASH52
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Y2K.png" group-title="📻  Radio " radio="true",Dash Radio | Y2K
+https://ice55.securenetsystems.net/DASH19
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/90s.png" group-title="📻  Radio " radio="true",Dash Radio | 90's
+https://ice55.securenetsystems.net/DASH1
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/31/logos/b096f16a-dd7e-48fa-973c-af79143fc008.png" group-title="📻  Radio " radio="true",Dash Radio | 80's
+https://ice55.securenetsystems.net/DASH7
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/70s.png" group-title="📻  Radio " radio="true",Dash Radio | 70's
+https://ice55.securenetsystems.net/DASH26
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/2/logos/9a78de9b-4366-45c8-b3e7-911ef7251352.png" group-title="📻  Radio " radio="true",Dash Radio | 60's
+https://ice55.securenetsystems.net/DASH34
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Ratpack.png" group-title="📻  Radio " radio="true",Dash Radio | Ratpack
+https://ice55.securenetsystems.net/DASH5
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/DiscoFever.png" group-title="📻  Radio " radio="true",Dash Radio | Disco Fever
+https://ice55.securenetsystems.net/DASH4
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/SWING/Swing-Color.png" group-title="📻  Radio " radio="true",Dash Radio | Swing
+https://ice55.securenetsystems.net/DASH80
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/178/logos/bfa8b3d6-1d26-493d-a24a-8bbe17ee75aa.png" group-title="📻  Radio " radio="true",Dash Radio | Fun For Life Radio
+https://ice55.securenetsystems.net/DASH49
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ R&B ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0RnB
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/50/logos/80156832-ba8b-4c3a-9e24-c5590be67b37.png" group-title="📻  Radio " radio="true",Dash Radio | Dash R&B X
+https://ice55.securenetsystems.net/DASH47
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/107/logos/590aec9f-6927-4ad8-8125-96353e4c3ca9.png" group-title="📻  Radio " radio="true",Snoop Dogg's Cadillacc Music
+https://ice55.securenetsystems.net/DASH16
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/224/logos/e3723e8b-7696-4f8b-a591-c3eb518e1b86.png" group-title="📻  Radio " radio="true",Dash Radio | Moonlight
+https://ice55.securenetsystems.net/DASH37
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/53/logos/0c3ecccd-1495-44c8-9fcd-cc7e9e53a7c4.png" group-title="📻  Radio " radio="true",Dash Radio | Boomerang
+https://ice55.securenetsystems.net/DASH39
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/PureSoul.png" group-title="📻  Radio " radio="true",Dash Radio | Pure Soul
+https://ice55.securenetsystems.net/DASH36
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/SUPERFREAK/superfreak_color_324.png" group-title="📻  Radio " radio="true",Dash Radio | Super Freak
+https://ice55.securenetsystems.net/DASH22
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ TALK ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0Talk
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/227/logos/3b3b0552-78ba-40c4-b830-342cf8f49e8b.png" group-title="📻  Radio " radio="true",Dash Radio | Providence
+https://ice55.securenetsystems.net/DASH76
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/217/logos/298f4cb0-baae-4dba-89ee-5ae7ea0ea523.png" group-title="📻  Radio " radio="true",Dash Radio | Laugh Factory
+https://ice55.securenetsystems.net/DASH92
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/207/logos/d8400d1a-0002-4c50-b369-8e0d351ad69d.png" group-title="📻  Radio " radio="true",Dash Radio | Old Time Radio
+https://ice55.securenetsystems.net/DASH30
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/NOTHINBUTNET/nbn_2_color_324.png" group-title="📻  Radio " radio="true",Dash Radio | Nothin' But Net
+https://ice55.securenetsystems.net/DASH96
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ JAZZ & CLASSICAL ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0Jazz
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cool.png" group-title="📻  Radio " radio="true",Dash Radio | Cool
+https://ice55.securenetsystems.net/DASH6
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/181/logos/a01caaa1-ed34-4591-a04a-eb5787b91fac.png" group-title="📻  Radio " radio="true",Dash Radio | The Blue Spot
+https://ice55.securenetsystems.net/DASH59
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Concerto.png" group-title="📻  Radio " radio="true",Dash Radio | Concerto
+https://ice55.securenetsystems.net/DASH33
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cinescore.png" group-title="📻  Radio " radio="true",Dash Radio | Cinescore
+https://ice55.securenetsystems.net/DASH29
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/77/logos/c4fdcf0d-aaad-4fe6-a126-7bcb6f28c118.png" group-title="📻  Radio " radio="true",Broadway Records Radio
+https://ice55.securenetsystems.net/DASH75
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/229/logos/ec3bfac0-18e4-488b-b2f5-42451fb589e6.png" group-title="📻  Radio " radio="true",Dash Radio | Smooth Jazz Hits
+https://ice55.securenetsystems.net/DASH44
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ COUNTRY ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0Country
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/43/logos/d1b67ff2-ec59-4caf-a2c0-670b9e79f899.png" group-title="📻  Radio " radio="true",Dash Radio | Dash Country X
+https://ice55.securenetsystems.net/DASH35
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheRanch.png" group-title="📻  Radio " radio="true",Dash Radio | The Ranch
+https://ice55.securenetsystems.net/DASH13
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/232/logos/5031018a-b125-45d7-a5ff-e6efe995fac0.png" group-title="📻  Radio " radio="true",Dash Radio | Dashville
+https://ice55.securenetsystems.net/DASH82
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ FAITH & GOSPEL ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0Faith
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/200/logos/b95fc039-b72e-40ec-bfd4-617e11f88af8.png" group-title="📻  Radio " radio="true",Dash Radio | Rhythm & Praise
+https://ice55.securenetsystems.net/DASH56
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/GH3/GH3_324.png" group-title="📻  Radio " radio="true",Dash Radio | God's House of Hip Hop
+https://ice55.securenetsystems.net/DASH77
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheCross2016Color.png" group-title="📻  Radio " radio="true",Dash Radio | The Cross
+https://ice55.securenetsystems.net/DASH42
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ WORLD ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0World
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/IDENTITY/asia_color_324.png" group-title="📻  Radio " radio="true",Dash Radio | Identity Asia Radio
+https://ice55.securenetsystems.net/DASH53
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/171/logos/69cff7b9-353b-43e6-9458-4862e11d6e81.png" group-title="📻  Radio " radio="true",Dash Radio | Island City
+https://ice55.securenetsystems.net/DASH40
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/212/logos/b2474560-e61f-4a4e-a6c0-9bd2d3b43bd0.png" group-title="📻  Radio " radio="true",Dash Radio | Rukus Avenue Radio
+https://ice55.securenetsystems.net/DASH54
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/YG.png" group-title="📻  Radio " radio="true",Dash Radio | YG Presents
+https://ice55.securenetsystems.net/DASH28
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/ReggaeKing.png" group-title="📻  Radio " radio="true",Dash Radio | Reggae King
+https://ice55.securenetsystems.net/DASH79
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/223/logos/bdfb58cc-db23-4e80-898a-7ceaa3c55bdc.png" group-title="📻  Radio " radio="true",Dash Radio | MyxRadio
+https://ice55.securenetsystems.net/DASH62
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/118/logos/d0918be2-d818-4bd5-b41a-f9ee9a44e7a0.png" group-title="📻  Radio " radio="true",Dash Radio | Afrobeats
+https://ice55.securenetsystems.net/DASH64
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1Hilf6.png" group-title="📻  Radio ",★★ HEALTH & WELLNESS ★★
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0Wellness
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/98/logos/ce0c10bc-47ab-403e-8d71-9dbca9f10c21.png" group-title="📻  Radio " radio="true",Dash Radio | Myndstream
+https://ice55.securenetsystems.net/DASH93
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/5a781df1-227e-452a-8576-0530244dee94.png" group-title="📻  Radio " radio="true",Dash Radio | Dash Lofi
+https://ice55.securenetsystems.net/DASH25
+#EXTINF:-1 tvg-id="FRBC9000041F" tvg-chno="4133" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC9000041F_20221214T045051SQUARE.png_20221214045052.png" group-title="📺  FILMS" , Trailers
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinefr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBB49000014I" tvg-chno="4117" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000014I_20220511T011734SQUARE.png_20220511011736.png" group-title="📺  FILMS" , Gong
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-FRBC3000001GV" tvg-id="FRBC3000001GV" tvg-chno="4954" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3000001GV_20230208T013122SQUARE.png_20230208013123.png" group-title="📺  FILMS" , Ciné Prime
+https://d5rskh55dewj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="FRAJ4500024MR" tvg-chno="4004" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRAJ4500024MR_20221109T010450.png" group-title="📺  FILMS",Comédies - Rakuten TV
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="📺  FILMS",Rakuten Comedy  2  (720p)
+https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FRAJ4500023UP" tvg-chno="4999" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/19/FRAJ4500023UP_20220323T075857.png" group-title="📺  FILMS",Films d'action - Rakuten TV
+https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="📺  FILMS",Rakuten TV Films Action 2(720p)
+https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FRAJ4500025AN" tvg-chno="4998" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRAJ4500025AN_20221026T004313.png" group-title="📺  FILMS",Films dramatiques - Rakuten TV
+https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaFrance.fr" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="📺  FILMS",Rakuten TV Films Drames 2 (720p)
+https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="📺  FILMS",Rakuten TV Films Français
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="📺  FILMS",Rakuten TV Films Thriller
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FRBA3300033GO" tvg-chno="4994" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBA3300033GO_20221012T021124.png" group-title="📺  FILMS",Top Films - Rakuten TV
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopFreeFrance.fr" tvg-logo="https://i.imgur.com/kA27xdB.png" group-title="📺  FILMS",Rakuten TV Top Films 2(720p)
+https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="📺  FILMS",Rakuten Spotlight  (720p)
+https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVcrime.fr" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="📺  FILMS",Rakuten TV CRIME
+https://732a989f787242b69e4d2fefa755821b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-fr_Crime/playlist.m3u8?ads.wurl_channel=1461&ads.wurl_name=Crime&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="5f8ed0f17564a300082b676a"tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png"group-title="📺  FILMS", TV Ciné
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 channel-id="pluto-6304f115fa5b2d00078cff6b" tvg-id="6304f115fa5b2d00078cff6b" tvg-chno="90" tvg-logo="https://images.pluto.tv/channels/6304f115fa5b2d00078cff6b/colorLogoPNG.png" group-title="📺  FILMS" , Pluto TV #1
+https://i.mjh.nz/PlutoTV/6304f115fa5b2d00078cff6b-alt.m3u8
+#EXTINF:-1 tvg-id="FRAJ3800002W5" tvg-chno="4975" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRAJ3800002W5_20221026T004301.png" group-title="📺  FILMS",Pluto TV Ciné
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="5f8ed1ff5c39700007e2204a"tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png"group-title="📺  FILMS", TV Action
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="BBC DRAMA"tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png"group-title="📺  FILMS", BBC DRAMA (FR)
+https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Doctor Who"tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png"group-title="📺  FILMS", BBC DOCTOR WHO (FR)
+https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5f8ed168f72fcd0007e56269"tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png"group-title="📺  FILMS", TV Ciné Rétro
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="60812fc8539963000707d1e1"tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG.png"group-title="📺  FILMS", TV Romance 1
+https://stitcher.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺  FILMS",Rakuten TV Romance 2(720p)
+https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺  FILMS",Rakuten TV Romance 3(720p)
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FRBB50000016B" tvg-chno="4993" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB50000016B_20221109T010512SQUARE.png_20221109010512.png" group-title="📺  FILMS" , Runtime
+https://d2fih5ugbu4v3d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-adwf5iz2j8r09-prod/run/rt_fr/rt_fr.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="60b4d6c806ad2a00073b3108"tvg-logo="https://images.pluto.tv/channels/60b4d6c806ad2a00073b3108/colorLogoPNG.png"group-title="📺  FILMS",Wild Side TV
+https://stitcher.pluto.tv/stitch/hls/channel/60b4d6c806ad2a00073b3108/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="60b4d6c806ad2a00073b3108"tvg-logo="https://images.pluto.tv/channels/60b4d6c806ad2a00073b3108/colorLogoPNG.png"group-title="📺  FILMS",Wild Side 2
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="60c34592c911890007f29a73"tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png"group-title="📺  FILMS", TV Sci-Fi
+https://stitcher.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="60c3472a51a2050008dad272"tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG.png"group-title="📺  FILMS", TV Thrillers
+https://stitcher.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5f8ece1a89d79800072510e6"tvg-logo="https://images.pluto.tv/channels/5f8ece1a89d79800072510e6/colorLogoPNG.png"group-title="📺  FILMS", TV Asylum
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ece1a89d79800072510e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5f8eb91bb9b9e7000817e67f"tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png"group-title="📺  FILMS", Pluto TV Comédie
+https://stitcher.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="TV CHANNEL" tvg-name="ASSIM  "  " group-title="📺  FILMS" , MYTV CHANNEL film
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-615c4bdfdd585f000732a22b" tvg-id="615c4bdfdd585f000732a22b" tvg-chno="720" tvg-logo="https://images.pluto.tv/channels/615c4bdfdd585f000732a22b/colorLogoPNG.png" group-title="📺  FILMS",Têtu TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615c4bdfdd585f000732a22b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="625ec7a1c853fd00073b38fd" tvg-name="Pluto TV Séries Fantastiques" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG.png" group-title="📺 SERIE" tvg-chno="52",Séries Fantastiques
+https://stitcher.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f62270d5-e960-11ec-87b7-0242ac110003
+#EXTINF:-1 channel-id="pluto-60c34592c911890007f29a73" tvg-id="60c34592c911890007f29a73" tvg-chno="55" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" group-title="📺 SERIE",Pluto Science-fiction
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c34592c911890007f29a73/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="611e71322f5f180007001dde"tvg-logo="https://images.pluto.tv/channels/611e71322f5f180007001dde/colorLogoPNG.png"group-title="📺 SERIE",*  Degrassi 1
+https://stitcher.pluto.tv/stitch/hls/channel/611e71322f5f180007001dde/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 channel-id="pluto-62e90bb046217400077172ff" tvg-id="62e90bb046217400077172ff" tvg-chno="870" tvg-logo="https://images.pluto.tv/channels/62e90bb046217400077172ff/colorLogoPNG.png" group-title="📺 SERIE" , Degrassi 2
+https://i.mjh.nz/PlutoTV/62e90bb046217400077172ff-alt.m3u8
+#EXTINF:-1 tvg-id="5f8ed2d1c34c2300073bf02c"tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png"group-title="📺 SERIE",* TV Series
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="60afa749ac7f3200078adb40"tvg-logo="https://images.pluto.tv/channels/60afa749ac7f3200078adb40/colorLogoPNG.png"group-title="📺 SERIE",*Walker Texas Ranger
+https://stitcher.pluto.tv/stitch/hls/channel/60afa749ac7f3200078adb40/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4d5ba236-c312-11ec-84fd-0242ac110003
+#EXTINF:-1 channel-id="pluto-6304979e62d51c000722df46" tvg-id="6304979e62d51c000722df46" tvg-chno="107" tvg-logo="https://images.pluto.tv/channels/6304979e62d51c000722df46/colorLogoPNG.png" group-title="📺 SERIE" , Starsky & Hutch
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6304979e62d51c000722df46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="60afaa535580be0007ac9ee4"tvg-logo="https://images.pluto.tv/channels/60afaa535580be0007ac9ee4/colorLogoPNG.png"group-title="📺 SERIE",Alerte à Malibu 1
+https://stitcher.pluto.tv/stitch/hls/channel/60afaa535580be0007ac9ee4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 channel-id="pluto-62e90db65e8e770007382a50" tvg-id="62e90db65e8e770007382a50" tvg-chno="880" tvg-logo="https://images.pluto.tv/channels/62e90db65e8e770007382a50/colorLogoPNG.png" group-title="📺 SERIE" , Alerte à Malibu 2
+https://i.mjh.nz/PlutoTV/62e90db65e8e770007382a50-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62f3e4bc08f5ec000744f552" tvg-id="62f3e4bc08f5ec000744f552" tvg-chno="35" tvg-logo="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/colorLogoPNG.png" group-title="📺 SERIE", Alerte Cobra
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f3e4bc08f5ec000744f552/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6245ccd0c6cdb800074632e4" tvg-id="6245ccd0c6cdb800074632e4" tvg-chno="100" tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" group-title="📺 SERIE",MacGyver
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245ccd0c6cdb800074632e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6245ceece1977a00079e2fbd" tvg-id="6245ceece1977a00079e2fbd" tvg-chno="110" tvg-logo="https://images.pluto.tv/channels/6245ceece1977a00079e2fbd/colorLogoPNG.png" group-title="📺 SERIE",Melrose Place
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245ceece1977a00079e2fbd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="60d359c98f262f00070c364e"tvg-logo="https://images.pluto.tv/channels/60d359c98f262f00070c364e/colorLogoPNG.png"group-title="📺 SERIE",Doctor Who
+https://stitcher.pluto.tv/stitch/hls/channel/60d359c98f262f00070c364e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="60d359c98f262f00070c364e"tvg-logo="https://images.pluto.tv/channels/60d359c98f262f00070c364e/colorLogoPNG.png"group-title="📺 SERIE",Doctor Who 2
+https://317f4af6bbcb4460ab7367feb929f47a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_DoctorWho/playlist.m3u8?ads.wurl_channel=1017&ads.wurl_name=DoctorWho&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="60d35a74c63c3c0008df6a90"tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png"group-title="📺 SERIE",BBC Drame
+https://stitcher.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5f8ed4dbf6bb0800071ffbcb"tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png"group-title="📺 SERIE", TV Polar
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5f8ed4dbf6bb0800071ffbcb"tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png"group-title="📺 SERIE", TV Polar 2
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffebbeabd18520007b37709/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="5f8eb7e3d2ed18000746d09a"tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png"group-title="📺 SERIE", TV TEEN 📺 SERIES
+https://stitcher.pluto.tv/stitch/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="60549e98061b5f000776866a"tvg-logo="https://images.pluto.tv/channels/60549e98061b5f000776866a/colorLogoPNG.png"group-title="📺 SERIE",Instant Saga
+https://stitcher.pluto.tv/stitch/hls/channel/60549e98061b5f000776866a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="  "tvg-logo="https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png"group-title="📺 SERIE", MADE
+https://stitcher.pluto.tv/stitch/hls/channel/5f8eb71a26ed8300076433f9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="FRBC350000148" tvg-chno="4161" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC350000148_20230125T022430SQUARE.png_20230125022431.png" group-title="📺 SERIE",Nashville Channel (fr)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-nashvillefrance-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="61533b6334ba9b000763d7b1" tvg-name="Amour, Gloire et Beauté" tvg-logo="http://www.utilitaire2011.com/lesfeux.png" group-title="📺 SERIE" tvg-chno="235", les feux de l amour
+https://stitcher.pluto.tv/stitch/hls/channel/61533b6334ba9b000763d7b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b1df4958-b1fa-11ec-bd37-0242ac110003
+#EXTINF:-1 tvg-id="FRBD110000232" tvg-chno="4209" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD110000232_20230426T015608SQUARE.png_20230426015609.png" group-title="📺 ENQUETE / REPORTAGE" , Reportage 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-reportagespicalife-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBC90000220" tvg-chno="4207" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC90000220_20220928T011222.png" group-title="📺 ENQUETE / REPORTAGE",Enquêtes de Choc
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="5f914f4b36d67d0007a91a04"tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png"group-title="📺 ENQUETE / REPORTAGE",Pluto TV Investigation
+https://stitcher.pluto.tv/stitch/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5f8edb6df1ebb800072edf10"tvg-logo="https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/colorLogoPNG.png"group-title="📺 ENQUETE / REPORTAGE",Les Nouveaux Detectives
+https://stitcher.pluto.tv/stitch/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 channel-id="pluto-62e927821054990007dc8e57" tvg-id="62e927821054990007dc8e57" tvg-chno="890" tvg-logo="https://images.pluto.tv/channels/62e927821054990007dc8e57/colorLogoPNG.png" group-title="📺 ENQUETE / REPORTAGE" , Les Nouveaux Détectives 2
+https://i.mjh.nz/PlutoTV/62e927821054990007dc8e57-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo=" "group-title="📺 ENQUETE / REPORTAGE",   ENQUETE POLICIERE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffebbeabd18520007b37709/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a9391-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc31112d-4925-4f44-b50f-ddf0ca08e7c7
+#EXTINF:-1 tvg-id="5f8edad922b10b000753bc37"tvg-logo="https://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG.png"group-title="📺 ENQUETE / REPORTAGE",Dossiers FBI
+https://stitcher.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="FRBB49000033R" tvg-chno="4221" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20221214T045102SQUARE.png_20221214045102.png" group-title="📺 ENQUETE / REPORTAGE",Homicide
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="5f8ed9461b35690007a0bc3a"tvg-logo="https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png"group-title="📺 ENQUETE / REPORTAGE", TV Paranormal
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="613f26b81646de000779006b"tvg-logo="https://images.pluto.tv/channels/613f26b81646de000779006b/colorLogoPNG.png"group-title="📺 ENQUETE / REPORTAGE", TV SOS Secours
+https://stitcher.pluto.tv/stitch/hls/channel/613f26b81646de000779006b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo=""group-title="📺 ENQUETE / REPORTAGE", Pluto TV COP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e1f7e089f23700009d66303&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=367&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVPoliceWomen.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e79c2f280389000077242a8/colorLogoPNG.png" group-title="📺 ENQUETE / REPORTAGE",Pluto Police Women 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e79c2f280389000077242a8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="lcn.ca" tvg-name="" tvg-logo="https://i.imgur.com/JHOyrgA.png" group-title="📺INFO-NEWS", * LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8?Canada
+#EXTINF:-1 tvg-id="I742.60327.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDkxNTNf/ICI-RDI.png" group-title="📺INFO-NEWS",* RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="m6" tvg-name="  " tvg-logo=" " group-title="📺INFO-NEWS",  Euronews 28/01
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="📺INFO-NEWS",TV5MondeInfo 
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="  " tvg-logo="  " group-title="📺INFO-NEWS",  SOS DOCTEUR
+https://pvqyb34odz24-hls-live.5centscdn.com/doc2/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="USBB32000103E" tvg-chno="1009" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000103E_20230208T100241SQUARE.png_20230208100242.png" group-title="📺INFO-NEWS" , CNN Replay
+https://doq6y2m748j16.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CNN-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="ATBD800001VA" tvg-chno="4005" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20230308T021713SQUARE.png_20230308021714.png" group-title="📺INFO-NEWS" , CNN
+https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="📺INFO-NEWS",France 24 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24/live
+#EXTINF:-1 tvg-id="60d35bcaf1ff4a00078af0a6"tvg-logo="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png"group-title=" 📺INFO-NEWS",Euronews 2
+https://stitcher.pluto.tv/stitch/hls/channel/60d35bcaf1ff4a00078af0a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="USAJ4300005PJ" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/35/USAJ4300005PJ20200730102745.png" group-title="📺INFO-NEWS", Yahoo Finance
+https://yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="https://www.dailymotion.com/video/x7pctg0  O1NET" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rt-france-ru.svg " group-title="📺INFO-NEWS",  RT FRANCE
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="   " group-title="📺INFO-NEWS",France INFO
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8
+#EXTINF:-1 tvg-id="ln24.fr" tvg-name="LN24 (FR) " tvg-logo="  "group-title="📺INFO-NEWS" ,|FR| AFRICA NEWS
+https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="📺INFO-NEWS",Medi 1 TV 
+http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BF1.bf" tvg-logo="https://i.imgur.com/ufNURAC.png" group-title="📺INFO-NEWS",BF1
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
+#EXTINF:-1 channel-id="pluto-62729857ba845f00071d80b1" tvg-id="62729857ba845f00071d80b1" tvg-chno="700" tvg-logo="https://images.pluto.tv/channels/62729857ba845f00071d80b1/colorLogoPNG.png" group-title="📺 CARTOON",Chefclub Recette
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62729857ba845f00071d80b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="619cee9d5dc3ed0007d845c8"tvg-logo="https://images.pluto.tv/channels/619cee9d5dc3ed0007d845c8/colorLogoPNG.png"group-title="📺 CARTOON",Les Razmoket
+https://stitcher.pluto.tv/stitch/hls/channel/619cee9d5dc3ed0007d845c8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="618e34ac4a270700077b1f32"tvg-logo="https://images.pluto.tv/channels/618e34ac4a270700077b1f32/colorLogoPNG.png"group-title="📺 CARTOON",South Park
+https://stitcher.pluto.tv/stitch/hls/channel/618e34ac4a270700077b1f32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 channel-id="pluto-62bdb919d36cbd0007e6ab8a" tvg-id="62bdb919d36cbd0007e6ab8a" tvg-chno="875" tvg-logo="https://images.pluto.tv/channels/62bdb919d36cbd0007e6ab8a/colorLogoPNG.png" group-title="📺 CARTOON" , South Park En Français
+https://i.mjh.nz/PlutoTV/62bdb919d36cbd0007e6ab8a-alt.m3u8
+#EXTINF:-1 tvg-id="618e34ac4a270700077b1f32"tvg-logo="http://www.utilitaire2011.com/caillou.png   "group-title="📺 CARTOON",Cailloux
+https://dhx-caillou-2-fr.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="5f8eb99ff17815000784a3b0"tvg-logo="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG.png"group-title="📺 CARTOON",Pluto TV Kids Séries
+https://stitcher.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5ffc8c345822750007e167de"tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png"group-title="📺 CARTOON",Bob l'éponge
+https://stitcher.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="60b4c17a81e29300071d3a39"tvg-logo="https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png"group-title="📺 CARTOON",Avatar
+https://stitcher.pluto.tv/stitch/hls/channel/60b4c17a81e29300071d3a39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5f8ecc1b37867f00071469e9"tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png"group-title="📺 CARTOON",Tortues Ninja TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5f8eba14a4ffb8000764e950"tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png"group-title="📺 CARTOON",Pluto TV Kids Animation
+https://stitcher.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5f92b625c1ffbc0007e60c37"tvg-logo="https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG.png"group-title="📺 CARTOON",Pluto TV Kids Collection
+https://stitcher.pluto.tv/stitch/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5f8ecb336537e8000764a17f"tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png"group-title="📺 CARTOON",Pluto TV Junior
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="618e3c1106d23b0007366723"tvg-logo="https://images.pluto.tv/channels/618e3c1106d23b0007366723/colorLogoPNG.png"group-title="📺 CARTOON",Bubble Guppies
+https://stitcher.pluto.tv/stitch/hls/channel/618e3c1106d23b0007366723/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5f8ecb9524419b0007365a1c"tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png"group-title="📺 CARTOON",Dora TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="611e75226b7f420007c3f319"tvg-logo="https://images.pluto.tv/channels/611e75226b7f420007c3f319/colorLogoPNG.png"group-title="📺 CARTOON",Inazuma Eleven
+https://stitcher.pluto.tv/stitch/hls/channel/611e75226b7f420007c3f319/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="611e6ddc7fcd580007d1eb5f"tvg-logo="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG.png"group-title="📺 CARTOON",Pluto TV Kids Gaming
+https://stitcher.pluto.tv/stitch/hls/channel/611e6ddc7fcd580007d1eb5f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="611e78c4954f250007ef7b84"tvg-logo="https://images.pluto.tv/channels/611e78c4954f250007ef7b84/colorLogoPNG.png"group-title="📺 CARTOON",la série animée
+https://stitcher.pluto.tv/stitch/hls/channel/611e78c4954f250007ef7b84/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="611e73687fcd580007d1f052"tvg-logo="https://images.pluto.tv/channels/611e73687fcd580007d1f052/colorLogoPNG.png"group-title="📺 CARTOON",Angela Anaconda
+https://stitcher.pluto.tv/stitch/hls/channel/611e73687fcd580007d1f052/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+#EXTINF:-1 tvg-id="5f8ecc7aa44d9c00081fca29"tvg-logo="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/colorLogoPNG.png"group-title="📺 CARTOON",iCarly TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=697eeb96-7d8f-11ec-9615-0242ac110003
+---------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id=" " tvg-name=" https://nrg91.gr/nrgtv.html " tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png" group-title="📻 MUSIC NO-STOP>>>>", NRG91 MUSIC
+https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w782731080.m3u8
+#EXTINF:-1 tvg-id="box hits" tvg-name="" tvg-logo="https://www.utilitaire2011.com/box.png" group-title="📻 MUSIC NO-STOP>>>>", BOX HITS MUSIC
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="📻 MUSIC NO-STOP>>>>", THE BOX HITS
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="📻 MUSIC NO-STOP>>>>",MUSICTOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://cdn3.iconfinder.com/data/icons/movie-video/512/Icon_6-128.png " group-title="📻 MUSIC NO-STOP>>>>", OCKO STAR (VIDEO)
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo=" " group-title="📻 MUSIC NO-STOP>>>>",MUSIC SOCIALTV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/wBIHmvL.png" group-title="📻 MUSIC NO-STOP>>>>",DBM TV 
+http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" h " tvg-logo=" " group-title="📻 MUSIC NO-STOP>>>>", PLUTO TV VEVO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b635b43dd1a399b39eee&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=890&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVVEVO2K.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="📻 MUSIC NO-STOP>>>>",Pluto TV VEVO 2K (1080p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVVEVO70s.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="📻 MUSIC NO-STOP>>>>",Pluto TV VEVO 70's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVVEVO80s.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="📻 MUSIC NO-STOP>>>>",Pluto TV VEVO 80's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVVEVO90s.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="📻 MUSIC NO-STOP>>>>",Pluto TV VEVO 90's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVVEVOCountry.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="📻 MUSIC NO-STOP>>>>",Pluto TV VEVO Country (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVVevoPop.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="📻 MUSIC NO-STOP>>>>",Pluto TV Vevo Pop (1080p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b635b43dd1a399b39eee&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=890&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVVevoPop.us" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="📻 MUSIC NO-STOP>>>>",Pluto TV Vevo Pop (1080p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVVEVORB.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="📻 MUSIC NO-STOP>>>>",Pluto TV VEVO R&B (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVVEVOReggeatonTrap.us" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="📻 MUSIC NO-STOP>>>>",Pluto TV VEVO Reggeaton & Trap (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVVH1IClassic.us" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="📻 MUSIC NO-STOP>>>>",Pluto TV VH1 Classics (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://cdn3.iconfinder.com/data/icons/movie-video/512/Icon_6-128.png " group-title="📻 MUSIC NO-STOP>>>>", MTV BIGGEST POP VIDEO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://cdn3.iconfinder.com/data/icons/movie-video/512/Icon_6-128.png " group-title="📻 MUSIC NO-STOP>>>>", MTV BLOCK PARTY VIDEO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="BF1.bf" tvg-logo="https://i.imgur.com/ufNURAC.png" group-title="📻 MUSIC NO-STOP>>>>",BF1
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
+#EXTINF:-1 tvg-id="PartyTymeKaraoke.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Jj4zvOK.png" group-title="📻 MUSIC NO-STOP>>>>",Stingray Party Time Karaoke 
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
+#EXTINF:-1 tvg-id="" tvg-name="404" tvg-logo="https://www.lyngsat.com/logo/radio/ss/stingray_ca_music.png" group-title="📻 MUSIC NO-STOP>>>>",Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="405" tvg-logo="https://www.lyngsat.com/logo/radio/ss/stingray_ca_music.png" group-title="📻 MUSIC NO-STOP>>>>",Stingray Hit List
+https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="406" tvg-logo="https://www.lyngsat.com/logo/radio/ss/stingray_ca_music.png" group-title="📻 MUSIC NO-STOP>>>>",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="407" tvg-logo="https://www.lyngsat.com/logo/radio/ss/stingray_ca_music.png" group-title="📻 MUSIC NO-STOP>>>>",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="408" tvg-logo="https://www.lyngsat.com/logo/radio/ss/stingray_ca_music.png" group-title="📻 MUSIC NO-STOP>>>>",Stingray Pop Adult
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="410" tvg-logo="https://www.lyngsat.com/logo/radio/ss/stingray_ca_music.png" group-title="📻 MUSIC NO-STOP>>>>",Stingray Hot Country
+https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="411" tvg-logo="https://www.lyngsat.com/logo/radio/ss/stingray_ca_music.png" group-title="📻 MUSIC NO-STOP>>>>",Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="409" tvg-logo="https://www.lyngsat.com/logo/radio/ss/stingray_ca_music.png" group-title="📻 MUSIC NO-STOP>>>>",Stingray Urban Beats
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 tvg-id="e" tvg-name="412" tvg-logo="https://www.lyngsat.com/logo/radio/ss/stingray_ca_music.png" group-title="📻 MUSIC NO-STOP>>>>",Stingray Everything 80s
+https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="413" tvg-logo="https://www.lyngsat.com/logo/radio/ss/stingray_ca_music.png" group-title="📻 MUSIC NO-STOP>>>>",Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" radio-en-ligne.fr/nrj " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>", NRJ HITS 
+https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3?origine=radiobox
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>", NRJ HITS YOUTUBE
+https://scdn.nrjaudio.fm/audio1/fr/31087/aac_64.mp3?origine=radiobox
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>", NRJ NOUVEAUTÉS
+https://scdn.nrjaudio.fm/adwz1/fr/30023/aac_64.mp3?origine=playernrj&aw_0_req.userConsentV2=
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>",**NRJ TOP100
+https://scdn.nrjaudio.fm/adwz1/fr/57084/aac_64.mp3?origine=fluxradios
+#EXTINF:-1 tvg-id=" " tvg-name=" https://nrg91.gr/ " tvg-logo=" http://www.utilitaire2011.com/nrg.png" group-title="📻 MUSIC NO-STOP>>>>", NRG DANCE
+https://sh.onweb.gr/9102/stream
+#EXTINF:-1 tvg-id=" " tvg-name=" https://nrg91.gr/ " tvg-logo="http://www.utilitaire2011.com/nrg.png " group-title="📻 MUSIC NO-STOP>>>>", NRG MIX
+https://sh.onweb.gr/9104/stream
+#EXTINF:-1 tvg-id=" " tvg-name=" https://nrg91.gr/ " tvg-logo="http://www.utilitaire2011.com/nrg.png " group-title="📻 MUSIC NO-STOP>>>>", NRG SMOOTH
+https://sh.onweb.gr/9106/stream
+#EXTINF:-1 tvg-id=" " tvg-name=" https://nrg91.gr/ " tvg-logo="http://www.utilitaire2011.com/nrg.png " group-title="📻 MUSIC NO-STOP>>>>", NRG AT HOME
+https://scdn.nrjaudio.fm/adwz1/fr/31011/aac_64.mp3?origine=fluxradios
+#EXTINF:-1 tvg-id=" " tvg-name=" https://nrg91.gr/ " tvg-logo="http://www.utilitaire2011.com/nrg.png " group-title="📻 MUSIC NO-STOP>>>>", NRG PURE HITS
+https://scdn.nrjaudio.fm/adwz1/fr/31503/aac_64.mp3?origine=fluxradios
+#EXTINF:-1 tvg-id=" " tvg-name=" https://nrg91.gr/ " tvg-logo="http://www.utilitaire2011.com/nrg.png " group-title="📻 MUSIC NO-STOP>>>>", NRG REMENBER THAT
+https://scdn.nrjaudio.fm/adwz1/fr/56388/aac_64.mp3?origine=fluxradios
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>", NRJ DAVID GUEETA
+http://scdn.nrjaudio.fm/audio1/fr/31053/mp3_128.mp3?origine=fluxradios
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>", NRJ Futur hits2021
+http://scdn.nrjaudio.fm/adwz1/fr/56732/mp3_128.mp3?origine=fluxradios
+
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>", NRJ Clubbin'
+https://scdn.nrjaudio.fm/adwz1/fr/30017/aac_64.mp3?origine=playernrj&aw_0_req.userConsentV2=
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo=" https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png" group-title="📻 MUSIC NO-STOP>>>>",**NRJ party hits
+http://cdn.nrjaudio.fm/adwz1/fr/30063/mp3_128.mp3?origine=fluxradios
+
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>",**NRJ Hits For Running
+https://scdn.nrjaudio.fm/adwz1/fr/30057/aac_64.mp3?origine=radiobox
+
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>",**NRJ ALL HITS ALL STYLES
+https://scdn.nrjaudio.fm/adwz1/fr/31149/aac_64.mp3?origine=radiobox
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>",**NRJ LATINO HITS
+https://scdn.nrjaudio.fm/adwz1/fr/30077/aac_64.mp3?origine=radiobox
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>",**NRJ La Playlist 2000's
+https://scdn.nrjaudio.fm/adwz1/fr/55275/mp3_128.mp3?origine=radiobox
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>",**NRJ HITS 90
+https://scdn.nrjaudio.fm/adwz1/fr/55274/aac_64.mp3?origine=radiobox
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>",**NRJ Extravadance
+https://scdn.nrjaudio.fm/adwz1/fr/30027/mp3_128.mp3?origine=radiobox
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>",**NRJ dance
+https://scdn.nrjaudio.fm/adwz1/fr/30013/mp3_128.mp3?origine=radiobox
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>",**NRJ POP R n B DANCE
+https://scdn.nrjaudio.fm/adwz1/fr/31489/aac_64.mp3?origine=radiobox
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>",**NRJ  CLASSIC ROCK
+https://scdn.nrjaudio.fm/adwz1/fr/31097/aac_64.mp3?origine=radiobox
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj-finland-fr-fi.png " group-title="📻 MUSIC NO-STOP>>>>",**NRJ ROCK
+https://scdn.nrjaudio.fm/adwz1/fr/30055/aac_64.mp3?origine=radiobox
+
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo=" https://media.info/i/lt/36/1527943450/262.png" group-title="📻 MUSIC NO-STOP>>>>", 100 hit hot
+http://gr01.cdnstream.com:8290/;stream.mp3?origine=radiobox
+
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/2/230.1488153441.png " group-title="📻 MUSIC NO-STOP>>>>",**COOL FM remix
+https://mediagw.e-tiger.net/stream/zc23?ver=117680.mp3?origine=radiobox
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Ch%C3%A9rie_FM_logo_2012.png " group-title="📻 MUSIC NO-STOP>>>>", CHERIE FM
+https://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3?origine=player
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Ch%C3%A9rie_FM_logo_2012.png " group-title="📻 MUSIC NO-STOP>>>>", CHERIE PARTY 1
+https://scdn.nrjaudio.fm/adwz1/fr/30261/aac_64.mp3?origine=player
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Ch%C3%A9rie_FM_logo_2012.png " group-title="📻 MUSIC NO-STOP>>>>", CHERIE PARTY 2
+https://scdn.nrjaudio.fm/adwz1/fr/30331/aac_64.mp3?origine=player
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Ch%C3%A9rie_FM_logo_2012.png " group-title="📻 MUSIC NO-STOP>>>>", CHERIE LATINO
+https://scdn.nrjaudio.fm/adwz1/fr/30247/aac_64.mp3?origine=player
+#EXTINF:-1 tvg-id=" " tvg-name="  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Ch%C3%A9rie_FM_logo_2012.png " group-title="📻 MUSIC NO-STOP>>>>", CHERIE NOUVEAUTÉ
+https://scdn.nrjaudio.fm/adwz1/fr/30255/aac_64.mp3?origine=player
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>",  iHeart50s Radio
+http://stream.revma.ihrhls.com/zc6882/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", iHeart60s Radio
+http://stream.revma.ihrhls.com/zc6873/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>",  iHeart70s Radio
+http://stream.revma.ihrhls.com/zc6843/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeart80sRadio_225x225.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", iHeart80s Radio
+https://stream.revma.ihrhls.com/zc5060/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", iHeart90s Radio
+http://stream.revma.ihrhls.com/zc6834/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>",  iHeart2000s Radio
+http://stream.revma.ihrhls.com/zc6850/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>",  iHeart2010s Radio
+http://stream.revma.ihrhls.com/zc8478/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", Classical Highlights
+http://stream.revma.ihrhls.com/zc6377/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>",  Smooth Jazz
+http://stream.revma.ihrhls.com/zc4242/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>",  Vinyl Jazz
+http://stream.revma.ihrhls.com/zc7079/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", The Standard Radio
+http://stream.revma.ihrhls.com/zc6784/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>",  Kiss Radio
+http://stream.revma.ihrhls.com/zc7362/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", Lite Rock
+http://stream.revma.ihrhls.com/zc6830/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>",  Popcorn Radio
+http://stream.revma.ihrhls.com/zc7445/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>",  Real Fun Beach
+http://stream.revma.ihrhls.com/zc6221/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", Real Oldies 60s & 70s Hits
+http://stream.revma.ihrhls.com/zc4717/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>",  Rock Workout
+http://stream.revma.ihrhls.com/zc7800/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>",  Slippery When Wet
+http://stream.revma.ihrhls.com/zc4858/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>",  iHeartRadio Countdown
+http://stream.revma.ihrhls.com/zc6455/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", iHeart Radio | Gran Torino
+http://stream.revma.ihrhls.com/zc6803/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", iHeart Radio | Gen X Radio
+http://stream.revma.ihrhls.com/zc5322/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", iHeart Radio | Full Metal Jackie
+http://stream.revma.ihrhls.com/zc6225/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", iHeart Radio | Hit Nation
+http://stream.revma.ihrhls.com/zc4422/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", iHeart Radio | Hit Nation Top 20
+http://stream.revma.ihrhls.com/zc4878/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>" ,Big Classic Hits 70s-90s
+http://stream.revma.ihrhls.com/zc4455/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", Heart Radio | Lost 80's Hits
+http://stream.revma.ihrhls.com/zc7934/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", The Classic Rock Channel
+http://stream.revma.ihrhls.com/zc4426/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>" ,iHeart Radio | Non Stop Rock
+http://stream.revma.ihrhls.com/zc4443/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", Rock Nation's Top 20
+http://stream.revma.ihrhls.com/zc4932/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>" ,One Hit Wonder Radio
+http://stream.revma.ihrhls.com/zc6669/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", Family Top 40 Countdown
+https://stream.revma.ihrhls.com/zc7013/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="📻 MUSIC NO-STOP>>>>", iHRadio | Kids Hits
+https://stream.revma.ihrhls.com/zc7223/hls.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="📻 MUSIC NO-STOP>>>>" radio="true",iHeart Radio Christmas 
+http://stream.revma.ihrhls.com/zc4596/hls.m3u8?CatXmas
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="📻 MUSIC NO-STOP>>>>" radio="true",iHeart Radio North Pole Radio 
+http://stream.revma.ihrhls.com/zc6734/hls.m3u8?CatXmas
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="📻 MUSIC NO-STOP>>>>" radio="true",iHeart Radio Christmas R&B
+https://stream.revma.ihrhls.com/zc6136/hls.m3u8?CatXmas
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="📻 MUSIC NO-STOP>>>>" radio="true",iHR Club Jam Christmas
+https://stream.revma.ihrhls.com/zc7252/hls.m3u8?CatXmas
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="📻 MUSIC NO-STOP>>>>" radio="true",iHeart Radio Christmas Rock 
+http://stream.revma.ihrhls.com/zc6410/hls.m3u8?CatXmas
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="📻 MUSIC NO-STOP>>>>" radio="true",iHR Christmas Classics 
+http://stream.revma.ihrhls.com/zc6137/hls.m3u8?CatXmas
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="📻 MUSIC NO-STOP>>>>" radio="true",iHR Christmas Country 
+http://stream.revma.ihrhls.com/zc4601/hls.m3u8?CatXmas
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="📻 MUSIC NO-STOP>>>>" radio="true",iHeart Radio Christmas Jazz
+https://stream.revma.ihrhls.com/zc7251/hls.m3u8?CatXmas
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="📻 MUSIC NO-STOP>>>>" radio="true",iHR Sacred Christmas
+https://stream.revma.ihrhls.com/zc7444/hls.m3u8?CatXmas
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net HUSTLER
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net PORNHD
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",Super One HD
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX >>>>",test
+https://sv1.data-stream.top/0f0b63ac80a575b43f21f8c2f4c7e81a8ca21417ba737ad322e4d2e0736a69f7/hls/francetv5.m3u8
+
+
+
+
+
